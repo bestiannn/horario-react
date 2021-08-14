@@ -1,0 +1,15 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+    background-image: url("https://radio.x-team.com/static/media/mario.28e65fd9.gif");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+    /* background: rgb(24,25,25,0); */
+    /* background: linear-gradient(180deg, rgba(24,25,25,1) 0%, rgba(0,0,0,1) 100%); */
+}

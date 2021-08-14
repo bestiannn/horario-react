@@ -1,0 +1,41 @@
+[
+  ["08:00 - 08:30", "", "", "", "", "Proyectos Colaborativos"],
+
+  ["08:30 - 09:00", "Inglés Básico II", "", "Proyectos Colaborativos", "", "Proyectos Colaborativos"],
+
+  ["09:00 - 09:30", "Inglés Básico II", "", "Proyectos Colaborativos", "", "Proyectos Colaborativos"],
+
+  ["09:30 - 10:00", "Arquitectura De Sistemas", "", "", "", "Proyectos Colaborativos"],
+
+  ["10:00 - 10:30", "Arquitectura De Sistemas", "Taller De Preparación Laboral", "Arquitectura De Sistemas", "", "Inglés Básico II"],
+
+  ["10:30 - 11:00", "", "Taller De Preparación Laboral", "Arquitectura De Sistemas", "", "Inglés Básico II"],
+
+  ["11:00 - 11:30", "", "Taller De Preparación Laboral", "", "", ""],
+
+  ["11:30 - 12:00", "", "", "", "", "Inglés Básico II"],
+
+  ["12:00 - 12:30", "", "", "", "", ""],
+
+  ["12:30 - 13:00", "", "", "", "", ""],
+
+  ["13:00 - 13:30", "Internet De Las Cosas", "Internet De Las Cosas", "", "", ""],
+
+  ["13:30 - 14:00", "Internet De Las Cosas", "Internet De Las Cosas", "", "", ""],
+
+  ["14:00 - 14:30", "Internet De Las Cosas", "", "", "", ""],
+
+  ["14:30 - 15:00", "Internet De Las Cosas", "", "", "", ""],
+
+  ["15:00 - 15:30", "", "", "", "", ""],
+
+  ["15:30 - 16:00", "", "", "", "", ""],
+
+  ["16:00 - 16:30", "Programación Android", "", "Programación Android", "", ""],
+
+  ["16:30 - 17:00", "Programación Android", "", "Programación Android", "", ""],
+
+  ["17:00 - 17:30", "Programación Android", "", "Programación Android", "", ""],
+
+  ["17:30 - 18:00", "Programación Android", "", "", "", ""]
+]
