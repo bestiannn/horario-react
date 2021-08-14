@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/horario-react/static/css/main.2bc3153d.chunk.css",
+    "main.js": "/horario-react/static/js/main.a6fb1d16.chunk.js",
+    "main.js.map": "/horario-react/static/js/main.a6fb1d16.chunk.js.map",
+    "runtime-main.js": "/horario-react/static/js/runtime-main.947918c3.js",
+    "runtime-main.js.map": "/horario-react/static/js/runtime-main.947918c3.js.map",
+    "static/js/2.349e82d5.chunk.js": "/horario-react/static/js/2.349e82d5.chunk.js",
+    "static/js/2.349e82d5.chunk.js.map": "/horario-react/static/js/2.349e82d5.chunk.js.map",
+    "index.html": "/horario-react/index.html",
+    "static/css/main.2bc3153d.chunk.css.map": "/horario-react/static/css/main.2bc3153d.chunk.css.map",
+    "static/js/2.349e82d5.chunk.js.LICENSE.txt": "/horario-react/static/js/2.349e82d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.947918c3.js",
+    "static/js/2.349e82d5.chunk.js",
+    "static/css/main.2bc3153d.chunk.css",
+    "static/js/main.a6fb1d16.chunk.js"
+  ]
+}
