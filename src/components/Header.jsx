@@ -1,7 +1,7 @@
 const Header = () => {  
 
     return (
-        <header className="py-3">
+        <header className="py-3 select-none">
             <h1 className="font-retro text-2xl sm:text-3xl md:text-4xl text-center text-white" >
                 Horario 4° Semestre
             </h1>
