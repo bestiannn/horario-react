@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/horario-react/static/css/main.2bc3153d.chunk.css",
-    "main.js": "/horario-react/static/js/main.cf1f99e2.chunk.js",
-    "main.js.map": "/horario-react/static/js/main.cf1f99e2.chunk.js.map",
+    "main.js": "/horario-react/static/js/main.4d4ff14c.chunk.js",
+    "main.js.map": "/horario-react/static/js/main.4d4ff14c.chunk.js.map",
     "runtime-main.js": "/horario-react/static/js/runtime-main.947918c3.js",
     "runtime-main.js.map": "/horario-react/static/js/runtime-main.947918c3.js.map",
     "static/js/2.465c5cfc.chunk.js": "/horario-react/static/js/2.465c5cfc.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.947918c3.js",
     "static/js/2.465c5cfc.chunk.js",
     "static/css/main.2bc3153d.chunk.css",
-    "static/js/main.cf1f99e2.chunk.js"
+    "static/js/main.4d4ff14c.chunk.js"
   ]
 }
