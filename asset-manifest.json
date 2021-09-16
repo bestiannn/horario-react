@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/horario-react/static/css/main.2bc3153d.chunk.css",
-    "main.js": "/horario-react/static/js/main.4d4ff14c.chunk.js",
-    "main.js.map": "/horario-react/static/js/main.4d4ff14c.chunk.js.map",
+    "main.css": "/horario-react/static/css/main.fea86dcb.chunk.css",
+    "main.js": "/horario-react/static/js/main.22f95d9c.chunk.js",
+    "main.js.map": "/horario-react/static/js/main.22f95d9c.chunk.js.map",
     "runtime-main.js": "/horario-react/static/js/runtime-main.947918c3.js",
     "runtime-main.js.map": "/horario-react/static/js/runtime-main.947918c3.js.map",
-    "static/js/2.465c5cfc.chunk.js": "/horario-react/static/js/2.465c5cfc.chunk.js",
-    "static/js/2.465c5cfc.chunk.js.map": "/horario-react/static/js/2.465c5cfc.chunk.js.map",
+    "static/js/2.370434f5.chunk.js": "/horario-react/static/js/2.370434f5.chunk.js",
+    "static/js/2.370434f5.chunk.js.map": "/horario-react/static/js/2.370434f5.chunk.js.map",
     "index.html": "/horario-react/index.html",
-    "static/css/main.2bc3153d.chunk.css.map": "/horario-react/static/css/main.2bc3153d.chunk.css.map",
-    "static/js/2.465c5cfc.chunk.js.LICENSE.txt": "/horario-react/static/js/2.465c5cfc.chunk.js.LICENSE.txt"
+    "static/css/main.fea86dcb.chunk.css.map": "/horario-react/static/css/main.fea86dcb.chunk.css.map",
+    "static/js/2.370434f5.chunk.js.LICENSE.txt": "/horario-react/static/js/2.370434f5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/horario-react/static/media/backgroud.2484c967.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.947918c3.js",
-    "static/js/2.465c5cfc.chunk.js",
-    "static/css/main.2bc3153d.chunk.css",
-    "static/js/main.4d4ff14c.chunk.js"
+    "static/js/2.370434f5.chunk.js",
+    "static/css/main.fea86dcb.chunk.css",
+    "static/js/main.22f95d9c.chunk.js"
   ]
 }
